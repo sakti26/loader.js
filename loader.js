@@ -26,7 +26,7 @@
 	Допустимые значения: 144,240,360,480,720,1080
 */
 
-var default_resolution = '360';
+var default_resolution = '1080';
 
 /*
 	Обновлять ли плееры каждую секунду?
@@ -82,6 +82,9 @@ var providers = [
 	'www.dailymotion.com',
 	'www.dropbox.com',
 	'www.stormo.tv',
+	'www.rapidvideo.is',
+	'www.zippyshare.com',
+	'www.solidfiles.com',
 /*
     18+
 */
